@@ -1533,8 +1533,8 @@ text-align:center;
     position: fixed;
     bottom: 25px;
     right: 25px;
-    width: 65px;
-    height: 60px;
+    width: 75px;
+    height: 70px;
     background: #25d366;
     border-radius: 1500px;
     display: flex;
@@ -1549,13 +1549,13 @@ text-align:center;
 
 .whatsapp-flutuante img {
 
-    width: 68px;
-    height: 60px;
+    width: 75px;
+    height: 70px;
     object-fit: contain;
 }
 
 .whatsapp-flutuante:hover {
-    transform: scale(1.5);
+    transform: scale(1.7);
 }
 
 /* ==========================
@@ -1565,7 +1565,7 @@ text-align:center;
 .voltar-topo {
     position: fixed;
     bottom: 25px;
-    right: 82px;
+    right: 110px;
     width: 48px;
     height: 48px;
     background: #b30000;
